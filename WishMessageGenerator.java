@@ -25,4 +25,7 @@ public class WishMessageGenerator {
 			
 	}
 
+       public void m1(){
+       }
+
 }
